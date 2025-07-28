@@ -1,8 +1,9 @@
 # Android_payload
 For only Education perpouse
+  git clone https://github.com/mhlove1224/Android_payload.git
 
-
-
+  cd Android_payload/
+  
 First install setup.sh using 
 bash setup.sh
 
